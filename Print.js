@@ -8,5 +8,5 @@ function factorial(num){
     }
     return num * factorial(num-1);
 }
-let n = factorial(5);
-console.log(n);
+let nn = factorial(5);
+console.log(nn);
